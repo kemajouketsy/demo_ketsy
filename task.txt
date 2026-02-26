@@ -1,2 +1,3 @@
 Task: Write a Bash script to check disk usage.
 Status: Not started.
+Task 2: Create a monitoring script.
