@@ -1,0 +1,2 @@
+Task: Write a Bash script to check disk usage.
+Status: Not started.
